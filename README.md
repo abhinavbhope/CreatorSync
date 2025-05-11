@@ -1,7 +1,7 @@
-# 🎥 CreatorPulse – Empowering the Next Generation of Creators
+# 🎥 CreatorSync – Empowering the Next Generation of Creators
 
 ## 🌟 Description
-**CreatorPulse** is a platform built for content creators around the world, helping them **predict their future reach** based on YouTube statistics such as comments, likes, subscribers, and more! 🚀
+**CreatorSync** is a platform built for content creators around the world, helping them **predict their future reach** based on YouTube statistics such as comments, likes, subscribers, and more! 🚀
 
 🔍 It features **AI-powered comment summarization**, allowing users to input a YouTube video URL and get a quick **summary of all comments** to better understand audience sentiment.
 
